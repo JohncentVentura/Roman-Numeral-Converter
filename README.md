@@ -1,5 +1,10 @@
-# Roman-Numeral-Converter
-Roman numerals are based on seven symbols and can be written using various combinations to represent Arabic numerals.
+# freeCodeCamp - Legacy JavaScript Algorithms and Data Structures Certification
+## Certification Project: Roman Numeral Converter
+This is one of the required projects to earn your certification.
+
+For this project, you'll build an application that converts integers to Roman numerals.
+
+### Verify this certification at: https://www.freecodecamp.org/certification/Johncent-Developer/javascript-algorithms-and-data-structures
 
 # Lessons Learned
 * Utilizing Key and Value in objects.
